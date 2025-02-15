@@ -1,4 +1,4 @@
-# Customer Churn Prediction  
+# Customer Retention Risk Analysis with Machine Learning
 A machine learning project to predict customer churn for a subscription-based service using Logistic Regression and Decision Tree Classifier.
 
 ## Overview  
